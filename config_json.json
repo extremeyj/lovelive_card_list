@@ -1,0 +1,12 @@
+{
+  "github": {
+    "username": "extremeyj",
+    "repo": "lovelive_card_list",
+    "branch": "main",
+    "dataPath": "card_data/ver.1.3.json"
+  },
+  "app": {
+    "autoSync": true,
+    "syncOnStartup": true
+  }
+}
